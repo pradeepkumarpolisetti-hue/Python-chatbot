@@ -3,7 +3,7 @@
 This is a simple rule-based chatbot built using Python.
 
 ## 📸 Example Output
-![Chatbot Screenshot](chatbot.png)
+![Chatbot Screenshot](chatbot.jpg)
 
 ## Features
 - Handles greetings like "hi" and "hello"
