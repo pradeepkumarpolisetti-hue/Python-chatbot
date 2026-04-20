@@ -2,6 +2,9 @@
 
 This is a simple rule-based chatbot built using Python.
 
+## 📸 Example Output
+![Chatbot Screenshot](chatbot.png)
+
 ## Features
 - Handles greetings like "hi" and "hello"
 - Responds to keywords like "AI"
